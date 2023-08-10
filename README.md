@@ -3,5 +3,3 @@ This repository contains datasets and Jupyter Notebooks for use in EES 3506 / 55
 Specifically, the files within this repository contain what is needed for Unit 1 which covers:
 * Unix Command Line
 * Gittin' started with Git & GitHub
-* Python Fundamentals
-* Working with 1-dimensional Datasets
